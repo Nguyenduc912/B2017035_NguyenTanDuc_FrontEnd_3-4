@@ -28,6 +28,6 @@ npm run dev
 npm run build
 ```
 =======
-# B2007173_TruongHoangDuy_frontend_3-4
+# B2017035_NguyenTanDuc_frontend_3-4
 CT449
 
